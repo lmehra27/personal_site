@@ -1,0 +1,9 @@
+name: "lucky-website"
+output_dir: "."
+navbar:
+  title: "Lucky Mehra"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
